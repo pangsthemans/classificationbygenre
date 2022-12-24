@@ -1,0 +1,68 @@
+Area Method of Moments Overall Average
+Area Method of Moments Overall Standard Deviation
+Area Method of Moments of MFCCs Overall Average
+Area Method of Moments of MFCCs Overall Standard Deviation
+Beat Histogram Overall Average
+Beat Histogram Overall Standard Deviation
+Beat Sum Overall Average
+Beat Sum Overall Standard Deviation
+Compactness Overall Average
+Compactness Overall Standard Deviation
+Derivative of MFCC Overall Average
+Derivative of MFCC Overall Standard Deviation
+Derivative of Running Mean of MFCC Overall Average
+Derivative of Running Mean of MFCC Overall Standard Deviation
+Derivative of Running Mean of Spectral Centroid Overall Average
+Derivative of Running Mean of Spectral Centroid Overall Standard Deviation
+Derivative of Spectral Centroid Overall Average
+Derivative of Spectral Centroid Overall Standard Deviation
+Derivative of Spectral Rolloff Point Overall Average
+Derivative of Spectral Rolloff Point Overall Standard Deviation
+Derivative of Standard Deviation of MFCC Overall Average
+Derivative of Standard Deviation of MFCC Overall Standard Deviation
+Derivative of Standard Deviation of Spectral Centroid Overall Average
+Derivative of Standard Deviation of Spectral Centroid Overall Standard Deviation
+FFT Bin Frequency Labels Overall Average
+FFT Bin Frequency Labels Overall Standard Deviation
+Fraction Of Low Energy Windows Overall Average
+Fraction Of Low Energy Windows Overall Standard Deviation
+LPC Overall Average
+LPC Overall Standard Deviation
+MFCC Overall Average
+MFCC Overall Standard Deviation
+Magnitude Spectrum Overall Average
+Magnitude Spectrum Overall Standard Deviation
+Method of Moments Overall Average
+Method of Moments Overall Standard Deviation
+Peak Based Spectral Smoothness Overall Average
+Peak Based Spectral Smoothness Overall Standard Deviation
+Power Spectrum Overall Average
+Power Spectrum Overall Standard Deviation
+Relative Difference Function Overall Average
+Relative Difference Function Overall Standard Deviation
+Root Mean Square Overall Average
+Root Mean Square Overall Standard Deviation
+Running Mean of MFCC Overall Average
+Running Mean of MFCC Overall Standard Deviation
+Running Mean of Spectral Centroid Overall Average
+Running Mean of Spectral Centroid Overall Standard Deviation
+Running Mean of Spectral Rolloff Point Overall Average
+Running Mean of Spectral Rolloff Point Overall Standard Deviation
+Spectral Centroid Overall Average
+Spectral Centroid Overall Standard Deviation
+Spectral Flux Overall Average
+Spectral Flux Overall Standard Deviation
+Spectral Rolloff Point Overall Average
+Spectral Rolloff Point Overall Standard Deviation
+Spectral Variability Overall Average
+Spectral Variability Overall Standard Deviation
+Standard Deviation of MFCC Overall Average
+Standard Deviation of MFCC Overall Standard Deviation
+Standard Deviation of Spectral Centroid Overall Average
+Standard Deviation of Spectral Centroid Overall Standard Deviation
+Strength Of Strongest Beat Overall Average
+Strength Of Strongest Beat Overall Standard Deviation
+Strongest Beat Overall Average
+Strongest Beat Overall Standard Deviation
+Zero Crossings Overall Average
+Zero Crossings Overall Standard Deviation
